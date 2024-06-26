@@ -47,6 +47,10 @@ The primary stakeholders for this project are:
 
 **Explanation:** A larger production budget allows for higher quality production, better special effects, and the ability to attract top-tier talent including superior writers and directors, all of which contribute to a film’s box office success.
 
+**Visualization:**
+![image](https://github.com/agambino720/movie_analytics_project/assets/135170174/ed883a2c-2a2f-4ac7-8262-5d896ef2a94e)
+
+
 ### Top-Rated Writers and Directors:
 **Finding:** The top 5 writers and directors have significantly higher average votes compared to the overall averages. The top 5 writers have average votes ranging from 8.94 to 9.17, while the top 5 directors have average votes ranging from 8.90 to 9.23. This is in contrast to the overall average votes for writers (6.25) and directors (6.43). Additionally, all selected writers and directors had worked on at least 3 movies, ensuring consistent performance.
 
