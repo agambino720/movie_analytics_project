@@ -60,12 +60,34 @@ This scatter plot showcases the relationship between the log-transformed product
 
 **Explanation:** Recruiting top-rated writers and directors ensures high-quality storytelling and direction, which are crucial for audience satisfaction and critical acclaim. This, in turn, leads to improved commercial success.
 
+**Visualization:** 
+This histogram highlights that the top 5 writers have significantly higher average votes compared to the overall average for all writers. This suggests that the top writers consistently produce work that is much better received by audiences.
+
+![image](https://github.com/agambino720/movie_analytics_project/assets/135170174/bdb25a7a-cb62-460f-b37f-b540331012b7)
+
+**Visualization:** 
+This histogram demonstrates that the top 5 directors have significantly higher average votes compared to the overall average for all directors. This showcases that the top directors also consistently produce work that is much better received by audiences.
+
+![image](https://github.com/agambino720/movie_analytics_project/assets/135170174/fa6a757c-b9fd-46b7-b164-90dc17ccbc13)
+
+
 ### High-Grossing and Well-Received Genres:
 **Finding:** Adventure, science fiction, and animation genres significantly outperform others in terms of average domestic gross, with revenues of 90.35 million, and $80.62 million respectively. Additionally, the short film genre is the most well-received by audiences with an average vote of 9.4, followed by game-show, documentary, news, biography, and music genres, which average between 7.1 and 7.3 out of 10.
 
 **Recommendation:** Focus on producing movies in high-grossing genres while ensuring they are well-received by recruiting reputable writers and directors. Prioritize adventure, science fiction, and animation genres due to their higher average domestic gross revenues.
 
 **Explanation:** Investing in high-grossing genres is likely to yield significant financial returns, potentially due to their popularity and broader appeal. Ensuring quality content within these genres by recruiting exceptional writers and directors and allocating adequate budgets will meet audience expectations, balancing financial goals with audience satisfaction.
+
+**Visualization:**
+This histogram showcases the average domestic gross revenue of the top 10 individual genres by domestic gross. The genres on the left, such as adventure, science fiction, and animation, show significantly higher average domestic gross revenues This indicates that these genres tend to perform better financially.
+
+![image](https://github.com/agambino720/movie_analytics_project/assets/135170174/5668d966-af7f-4f57-a177-c466e00a6146)
+
+**Visualization:**
+This histogram shows the average votes of the top 10 genres by average vote. Short films have a notably higher average vote compared to the other genres. The remaining top 9 genres, including: game-show, documentary, news, biography, music, history, talk-show, sport, and war, have relatively similar average votes.
+
+![image](https://github.com/agambino720/movie_analytics_project/assets/135170174/50138f8d-daa1-423c-9514-27ada5d5981b)
+
 
 ## Repository Structure
 - **data/**: Contains all the data files used in the project.
