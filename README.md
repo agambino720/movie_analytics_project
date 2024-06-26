@@ -31,12 +31,13 @@ The primary stakeholders for this project are:
      - `tn_movie_budgets`
      - `rt_movie_info`
 2. **Analysis:**
-   - Investigated the relationship between vote average and domestic gross.
-   - Analyzed the relationship between runtime and domestic gross.
-   - Studied the correlation between production budget and domestic gross.
-   - Examined the relationship between production budget and average vote.
+   - Investigated the relationship between vote average and domestic gross using correlation.
+   - Investigated the relationship between runtime and domestic gross.
+   - Analyzed the relationship between production budget and domestic gross using correlation and regression.
+   - Investigated the relationship between production budget and average vote.
    - Identified which writers and directors had the best vote averages.
-   - Analyzed the relationship between genre and domestic gross as well as genre and average vote.
+   - Analyzed the relationship between genre and domestic gross using descriptive statistics.
+   - Analyzed the relationship between genre and average vote using descriptive statitsics.
 
 ## Summary of Findings and Recommendations
 
