@@ -48,6 +48,8 @@ The primary stakeholders for this project are:
 **Explanation:** A larger production budget allows for higher quality production, better special effects, and the ability to attract top-tier talent including superior writers and directors, all of which contribute to a film’s box office success.
 
 **Visualization:**
+This scatter plot showcases the relationship between the log-transformed production budget and the log-transformed domestic gross revenue, with a regression line fitted to the data. The data points represent individual movies, and the red line represents the fitted regression model after removing outliers.
+
 ![image](https://github.com/agambino720/movie_analytics_project/assets/135170174/ed883a2c-2a2f-4ac7-8262-5d896ef2a94e)
 
 
