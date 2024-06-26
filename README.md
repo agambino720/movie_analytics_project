@@ -1,7 +1,15 @@
-# movie_analytics_project
+# Movie Analytics Project
 
 ## Description
-This project analyzed various movie datasets to generate business insights for a new movie studio. The analysis includes descriptive statistics and regression modeling to understand trends and patterns in the movie industry.
+The Movie Analytics Project is designed to provide valuable business insights for a new movie studio by analyzing various movie datasets. This analysis utilized multiple data sources including movie gross data, IMDb data, TMDb movie data, TN movie budgets, and Rotten Tomatoes movie information. 
+
+## Key Business Questions Answered:
+1. **What is the relationship between production budget and domestic gross?**
+   - Identifying how production investments translate into box office returns provides insights into budgeting strategies.
+2. **Which writers and directors have the best vote averages?**
+   - By identifying top-performing writers and directors, the studio can make informed hiring decisions to boost movie quality and audience appeal.
+3. **How do different genres perform in terms of domestic gross and average votes?**
+   - This analysis reveals which genres are most lucrative and well-received, guiding genre-specific production strategies.
 
 ## Stakeholders
 The primary stakeholders for this project are:
