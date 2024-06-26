@@ -3,6 +3,14 @@
 ## Description
 This project analyzed various movie datasets to generate business insights for a new movie studio. The analysis includes descriptive statistics and regression modeling to understand trends and patterns in the movie industry.
 
+## Stakeholders
+The primary stakeholders for this project are:
+
+**Head of the New Movie Studio:** Can use the insights to make informed decisions about which genres and types of films to produce, how much to invest into various films, as well as whom to consider hiring.
+**Marketing Team:** Can utilize genre popularity data to create effective promotional strategies.
+**Production Team:** Needs to understand which attributes of film production lead to increased success in the box office and ratings.
+**Investors:** Interested in the financial costs, viability, and potential returns of investing in specific film genres.
+
 ## Data Science Steps
 1. **Data Loading and Cleaning:**
    - Loaded and cleaned the `movie_gross` dataset.
